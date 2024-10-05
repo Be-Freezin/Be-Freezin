@@ -1,12 +1,14 @@
 # 👾 Brayden Friesen
 
-**`Digital Druid (Developer/Musician/Gamer/Design Tinkerer)`**
+**`TheMetalHeadDev (Developer/UI Designer/Musician/Gamer)`**
 
-I'm a front-end developer with a passion for creating amazing web experiences, and responsive web applications. All coding projects are built from the ground up by yours truly.
+I’m a frontend developer passionate about writing maintainable, scalable code that powers user-friendly interfaces. My development approach is guided by a strong design sensibility, ensuring that every line of code supports both form and function.
 
-I'm a believer in clean code and pixel-perfect design. I'm obsessed with creating intuitive user interfaces that are easy to navigate and visually stunning. Whether it's a small tweak or a major overhaul, I'm always up for a challenge and love solving complex problems with code.
+I focus on building efficient, maintainable solutions that not only work seamlessly but also feel right to users, catching their eye and attention. If you’re looking for a developer who values both creativity and logic, then you’re in the right place!
 
-When im not programming, i enjoy creating music, exploring sounds and sound design, slaying foes in RPG's, exploring new recipes and cocktails with my wife, traveling to fun and unique places and cheering for the Philadelphia 76ers.
+Since the start of 2024 I have been on contract as a UI Developer where we are using bitbucket.
+
+When I'm not programming, I enjoy creating music, exploring sounds and sound design, slaying foes in RPG's, exploring new recipes and cocktails with my wife, traveling to fun and unique places and cheering for the Philadelphia 76ers.
 
 ### ⚔ Weapons of Choice
 
@@ -19,22 +21,43 @@ When im not programming, i enjoy creating music, exploring sounds and sound desi
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  />
+
+
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
            
 
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
                     
 
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
           
 
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 
 
 #
