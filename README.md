@@ -1,12 +1,11 @@
 # 👾 Brayden Friesen
 
-**`TheMetalHeadDev (Developer/UI Designer/Musician/Gamer)`**
+**`UI Developer @ Cooltrax`**
 
-I’m a frontend developer passionate about writing maintainable, scalable code that powers user-friendly interfaces. My development approach is guided by a strong design sensibility, ensuring that every line of code supports both form and function.
+
+I’m a frontend developer passionate about writing maintainable, pixel perfect and scalable code that powers user-friendly interfaces. My development approach is guided by a strong design sensibility, ensuring that every line of code supports both form and function.
 
 I focus on building efficient, maintainable solutions that not only work seamlessly but also feel right to users, catching their eye and attention. If you’re looking for a developer who values both creativity and logic, then you’re in the right place!
-
-Since the start of 2024 I have been on contract as a UI Developer where we are using bitbucket.
 
 When I'm not programming, I enjoy creating music, exploring sounds and sound design, slaying foes in RPG's, exploring new recipes and cocktails with my wife, traveling to fun and unique places and cheering for the Philadelphia 76ers.
 
